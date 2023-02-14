@@ -156,3 +156,15 @@
 // var mobileBrands = ["Apple","Samsung","Motorola","Nokia","Sony","Hair"]
 // document.write( "<label for='brand'>"+"Choose a mobile Brand: "+"</label>"+ "<select name='mobileBrand' id='brand'>"+"<option value='apple'>"+mobileBrands[0]+"</option>"+"<+ value='samsung'>"+mobileBrands[1]+"<option value='motorola'>"+mobileBrands[2]+"</option>"+"<option value='nokia'>"+mobileBrands[3]+"</option>"+"<option value='sony'>"+mobileBrands[3]+"</option>"+"<option value='hair'>"+mobileBrands[4]+"</option>" +"</select>")
 
+//<----------------------------------------------------Chapter no 17 to 20--------------------------------------------------------------->
+
+//Question no 01
+
+// var multiDimension;
+// multiDimension = [[]]
+
+//Qyuestion no 02
+
+// var matrix = [[0,1,2,3],[1,0,1,2],[2,1,0,1]]
+// document.write(matrix[0,[0]] +"</br>"+matrix[1] +"</br>"+matrix[2] )
+
